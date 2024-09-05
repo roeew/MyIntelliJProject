@@ -23,7 +23,7 @@ public class HighSchool {
         student1.graded(76);
 
         System.out.print(student2.getName()+"'s reaction: ");
-        student2.graded(91);
+        student2.graded(90);
     }
 
     public static void reactToGrade(int grade) {
